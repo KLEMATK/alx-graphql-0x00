@@ -6,3 +6,4 @@ This repository contains GraphQL queries and output JSON files for:
 - Episodes: specific episode details by ID
 
 Files are organized in the `character` and `episode` directories.
+
