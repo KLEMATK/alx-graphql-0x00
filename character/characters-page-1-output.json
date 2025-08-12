@@ -20,9 +20,7 @@
           "status": "Alive",
           "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
         }
-        // Add more characters as needed for the page
       ]
     }
   }
 }
-
